@@ -19,6 +19,7 @@ Learning Czech is fun! Below I collected the best resources I recommend for lear
   - For example all newer Netflix series such as _One Piece_, _Wednesday_, ... (You can search by language using the Netflix website or [unogs](https://unogs.com/))
   - Older series on Disney+ such as _Buffy the Vampire Slayer_, _The Glades_ or _How I Met Your Mother_. You can find all series in Czech using the filters on [dsny.pl](https://dsny.pl/)
 - Reading books that interest you, possibly ones that you already have read before
+  - I especially recommend reading ebooks edited with the the [WordDumb](https://github.com/xxyzz/WordDumb) calibre plugin. It adds translations over the words in the book, making it very easy to understand what's happening without having to explicitly look anything up. I personally combine it with the KOReader app, it also supports Kindle.
 - Simpler audiobooks (or short stories) with clear pronunciation, such as the Youtube channel [Kyselá Jahoda čte](https://www.youtube.com/@KyselaJahodacte)
 - Playing video games rich in text or audio with Czech localisation:
   - Free options are [Shattered Pixel Dungeon](https://shatteredpixel.com/), [Unciv](https://github.com/yairm210/Unciv), [Widelands](https://www.widelands.org/), [0 A. D.](https://play0ad.com/), [OpenTTD](https://www.openttd.org/)
